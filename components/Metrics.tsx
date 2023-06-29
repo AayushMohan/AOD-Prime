@@ -10,6 +10,7 @@ const Metrics = () => {
         </div>
         <div className="p-40 mx-10 bg-[#0D0D0D] rounded-3xl">
           <h1>3000</h1>
+          <span>Lives Saved</span>
         </div>
         <div className="p-40 mx-10 bg-[#0D0D0D] rounded-3xl"></div>
       </div>
