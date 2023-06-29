@@ -6,7 +6,7 @@ const Hero = () => {
     <div>
       <div>
         <h1 className="text-7xl text-center mx-10 mt-80 px-80 text-[#FCBF49]">
-          Drive Safe, Safe Wildlife
+          Drive Safe, Save Wildlife
         </h1>
       </div>
       <div className="flex justify-center items-center mt-10">
